@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <dimen name="padding_more_super_small">6dp</dimen>
+        <dimen name="padding_super_small">8dp</dimen>
+        <dimen name="padding_small">12dp</dimen>
+        <dimen name="padding_medium">16dp</dimen>
+        <dimen name="image_size">100dp</dimen>
+        <dimen name="top_bar_button_width_size">48dp</dimen>
+        <dimen name="top_bar_button_height_size">46dp</dimen>
+        <dimen name="top_bar_button_contentPadding_value">0dp</dimen>
+        <dimen name="top_bar_icon_size">24dp</dimen>
+        <dimen name="top_bar_element_speacer">49dp</dimen>
+        <dimen name="top_eleated_button_rounded_corner">15dp</dimen>
+        <dimen name="top_eleated_button_elevation">5dp</dimen>
+        <dimen name="search_bar_size_height">46dp</dimen>
+        <dimen name="search_bar_size_weight">320dp</dimen>
+        <dimen name="top_bar_total_height">120dp</dimen>
+        <dimen name="search_bar_start_padding">20dp</dimen>
+        <dimen name="search_bar_name_top_padding">13dp</dimen>
+        <dimen name="searchbar_and_settings_spacer">8dp</dimen>
+        <dimen name="search_icon_padding">10dp</dimen>
+        <dimen name="settings_icon_top_padding">10dp</dimen>
+        <dimen name="settings_icon_start_padding">12dp</dimen>
+        <dimen name="reply_icon_eleveted_card_bottom_padding">15dp</dimen>
+        <dimen name="reply_icon_eleveted_card_top_padding">4dp</dimen>
+        <dimen name="reply_icon_eleveted_card_size">37dp</dimen>
+        <dimen name="reply_icon_eleveted_card_rounded_corner">13dp</dimen>
+        <dimen name="reply_text_top_padding">7dp</dimen>
+        <dimen name="reply_text_start_padding">15dp</dimen>
+        <dimen name="reply_text_eleveted_card_start_padding">17dp</dimen>
+        <dimen name="reply_text_eleveted_card_bottom_padding">15dp</dimen>
+        <dimen name="reply_text_eleveted_card_top_padding">5dp</dimen>
+        <dimen name="reply_text_eleveted_card_size_width">307dp</dimen>
+        <dimen name="reply_text_eleveted_card_size_height">37dp</dimen>
+        <dimen name="replying_row_bottom_padding">3dp</dimen>
+</resources>

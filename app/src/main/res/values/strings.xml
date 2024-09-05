@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Chatapp</string>
+    <string name="contact_name_1">Rohit</string>
+    <string name="contact_name_2">Mira</string>
+    <string name="contact_name_3">Haya</string>
+    <string name="contact_name_4">Tara</string>
+    <string name="contact_name_5">Rashmi</string>
+    <string name="contact_name_6">Zoya</string>
+    <string name="contact_name_7">Ben</string>
+    <string name="contact_name_8">Rocky</string>
+    <string name="contact_name_9">Lio</string>
+    <string name="contact_name_10">Caben</string>
+    <string name="lastmassage_1">How are You?</string>
+    <string name="lastmassage_2">Are you joining today?</string>
+    <string name="lastmassage_3">Are you coming?</string>
+    <string name="lastmassage_4">Are you ok?</string>
+    <string name="lastmassage_5">Hello sir!!</string>
+    <string name="lastmassage_6">Bro how are you?</string>
+    <string name="lastmassage_7">Hey man!</string>
+    <string name="lastmassage_8">Good to see you today</string>
+    <string name="lastmassage_9">lets go there </string>
+    <string name="lastmassage_10">You are a hero!!</string>
+    <string name="status_1">Online</string>
+    <string name="status_2">Offline</string>
+    <string name="status_3">Offline</string>
+    <string name="status_4">Online</string>
+    <string name="status_5">Offline</string>
+    <string name="status_6">Offline</string>
+    <string name="status_7">Offline</string>
+    <string name="status_8">Online</string>
+    <string name="status_9">Offline</string>
+    <string name="status_10">Online</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+    <string name="about">Last massage:</string>
+
+</resources>
